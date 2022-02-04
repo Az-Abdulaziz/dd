@@ -1,21 +1,22 @@
-# dd
-# SOEN 341
-[![Generic badge](https://img.shields.io/badge/SOEN341-Project-<BLUE>.svg)](https://shields.io/)
+# CEO - GDSC (Google Developer Student Club)
 
-[![Generic badge](https://img.shields.io/badge/VERSION-Sprint1-<BLUE>.svg)](https://shields.io/)
+<!--[![Generic badge](https://img.shields.io/badge/SOEN341-Project-<BLUE>.svg)](https://shields.io/)
+
+[![Generic badge](https://img.shields.io/badge/VERSION-Sprint1-<BLUE>.svg)](https://shields.io/) -->
 
 
 ## :bulb:Objective
-The objective of this project is to implement a simplified version of Amazon (online shopping website) that will provide customers with the convenience of 24/7 shopping from anywhere. This repository is going to be used to gather all relevant information regarding our website. This includes the information about the teammates, any codes that were written for the website, sprints following the agile methodology, and any other important documents.
+<!--The objective of this project is to implement a simplified version of Amazon (online shopping website) that will provide customers with the convenience of 24/7 shopping from anywhere. This repository is going to be used to gather all relevant information regarding our website. This includes the information about the teammates, any codes that were written for the website, sprints following the agile methodology, and any other important documents.-->
 
 ## :mag_right:Description
-Advancements in technology and the growth of available marketplaces have made it easier than ever to buy and sell online. As businesses came online during the COVID-19 pandemic, the global trend toward digitization surged ahead at lightning speed. While there are many ways to sell to consumers over the internet, the main advantage of online selling is that you can sell to consumers anywhere, anytime.
+<!--Advancements in technology and the growth of available marketplaces have made it easier than ever to buy and sell online. As businesses came online during the COVID-19 pandemic, the global trend toward digitization surged ahead at lightning speed. While there are many ways to sell to consumers over the internet, the main advantage of online selling is that you can sell to consumers anywhere, anytime.-->
 
 
 ## :memo:Core Features
+<!-- 
 - Browsing items
 - Adding products to the cart
-- Checking out
+- Checking out -->
 
 ## :busts_in_silhouette:Team Members
 <table>
@@ -24,7 +25,7 @@ Advancements in technology and the growth of available marketplaces have made it
     <th>Student ID</th>
     <th>GitHub Username</th>
   </tr>
- <tr>
+ <!--<tr>
     <td>Khalid Sadat</td>
     <td>40177334</td>
   <td><a href="https://github.com/khalidsaadat" target="_blank">github.com/khalidsaadat</a></td>
@@ -63,7 +64,7 @@ Advancements in technology and the growth of available marketplaces have made it
     <td>Zayneb Mehdi</td>
     <td>40109417</td>
     <td><a href="https://github.com/BrainOverfl0w" target="_blank">github.com/BrainOverfl0w</a></td>
-  </tr>
+  </tr>-->
 </table>
 
 ## :dizzy:Technologies Used
@@ -83,7 +84,7 @@ _<h3>Back-end:</h3>_
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## :computer:How to run this project?
-This project is built with PHP; hence, it needs an Apache system, such as XAMPP. Follow these steps to successfully run this project in your system:
+<!--This project is built with PHP; hence, it needs an Apache system, such as XAMPP. Follow these steps to successfully run this project in your system:
  - Install XAMPP through the following link:
     - `https://www.apachefriends.org/index.html`
 - Run XAMPP, and click `Manage Servers` tab. 
@@ -93,7 +94,7 @@ This project is built with PHP; hence, it needs an Apache system, such as XAMPP.
     -  The content of `localhost` is presented inside `htdocs` folder under `XAMPP` folder.
 - Open your terminal and clone this project by entering the following line in your terminal:
     - `git clone https://github.com/khalidsaadat/soen341.git`
-- Open the cloned folder and open `soen341` folder and copy its contents into `htdocs` folder inside `XAMPP` folder.
+- Open the cloned folder and open `soen341` folder and copy its contents into `htdocs` folder inside `XAMPP` folder.-->
 
 ## Version
 v.1.0
